@@ -1,0 +1,1 @@
+/createScroll head_mounted_gas_bottle_spell 1

@@ -1,0 +1,15 @@
+{
+  "itemGroup.chemicalmagic": "Example Mod Tab",
+  "block.chemicalmagic.example_block": "Example Block",
+  "item.chemicalmagic.example_item": "Example Item",
+
+  "chemicalmagic.configuration.title": "Chemical_Magic Configs",
+  "chemicalmagic.configuration.section.chemicalmagic.common.toml": "Chemical_Magic Configs",
+  "chemicalmagic.configuration.section.chemicalmagic.common.toml.title": "Chemical_Magic Configs",
+  "chemicalmagic.configuration.items": "Item List",
+  "chemicalmagic.configuration.logDirtBlock": "Log Dirt Block",
+  "chemicalmagic.configuration.magicNumberIntroduction": "Magic Number Text",
+  "chemicalmagic.configuration.magicNumber": "Magic Number",
+  "spell.chemicalmagic.head_mounted_gas_bottle": "Head_mounted_Gas_Bottle",
+  "spell.chemicalmagic.head_mounted_gas_bottle.guide": "Create a gas canister on the enemy's head"
+}
